@@ -13,7 +13,7 @@ Sou estudante de Sistemas de Informação na UFOP com experiência prática em d
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; pointer-events: none;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 

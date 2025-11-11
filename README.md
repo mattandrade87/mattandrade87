@@ -2,7 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Sistemas de Informação na UFOP com experiência prática em desenvolvimento full stack, atuando em projetos de e-commerce no back-end, front-end e mobile. Trabalhei como freelancer e atualmente atuo em uma grande empresa, utilizando principalmente React no front-end e PHP no back-end. Sou apaixonado por tecnologia e estou sempre em busca de aprendizado contínuo e inovação
+Desenvolvedor Full Stack com experiência na construção de aplicações web e mobile escaláveis. Atuo em todo o ciclo de desenvolvimento — do conceito ao deploy — utilizando React, React Native, Node.js, Next.js, TypeScript e Docker. Focado em código limpo, arquitetura otimizada e entrega de experiências de alta performance centradas no usuário. Experiência na aplicação de boas práticas em UI/UX, SEO, acessibilidade e integração de APIs RESTful.
+
+Vivência prática com design systems, autenticação JWT, modelagem de bancos de dados relacionais e não relacionais, e colaboração ágil (Scrum). Participação ativa em code reviews, planejamento de arquitetura e definição de padrões de código.
 
 ---
 

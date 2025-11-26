@@ -58,6 +58,25 @@ Vivência prática com design systems, autenticação JWT, modelagem de bancos d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Nest.Js" 
+    title="NestJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Tailwind" 
@@ -66,6 +85,7 @@ Vivência prática com design systems, autenticação JWT, modelagem de bancos d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+
 
 <img 
     align="left" 
@@ -101,16 +121,4 @@ Vivência prática com design systems, autenticação JWT, modelagem de bancos d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
-<br/>
-<br/>
 
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattandrade87&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
-  />
-
-</p>

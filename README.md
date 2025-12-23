@@ -1,6 +1,6 @@
 # Mateus Andrade👋 
 
-Sou **Desenvolvedor Full Stack** com foco forte em **backend moderno**, arquitetura escalável e aplicações web/mobile de alta performance. Atuo de ponta a ponta no desenvolvimento — do design da API ao deploy em containers — sempre priorizando **clean code**, boas práticas e experiência do usuário.
+Sou **Desenvolvedor Full Stack** com foco forte em **backend moderno**, arquitetura escalável e aplicações web/mobile de alta performance. Atuo de ponta a ponta no desenvolvimento, do design da API ao deploy em containers, sempre priorizando **clean code**, boas práticas e experiência do usuário.
 
 ---
 
